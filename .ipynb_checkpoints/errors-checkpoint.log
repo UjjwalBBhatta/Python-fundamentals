@@ -1,0 +1,2 @@
+2025-10-31 14:13:59,484 - ERROR - InvalidInput: Zero is not allowed.
+2025-10-31 14:14:47,585 - ERROR - No such comm target registered: jupyter.widget.control
