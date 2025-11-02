@@ -1,0 +1,14 @@
+# Ignore data and JSON files
+*.JSON
+*.txt
+
+# Ignore Python logs
+*.log
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+# Ignore environment variable files
+.env
